@@ -1,2 +1,2 @@
-#placeholder text so github doesn't delete empty folder
-##Sorted files will go in this folder
+Placeholder text so github doesn't delete empty folder
+Sorted files will go in this folder
